@@ -1,0 +1,6 @@
+*.yml
+coreos-vcloud-configurator
+tmp/
+*.bak
+*.*.minion
+.DS_Store
