@@ -1,7 +1,6 @@
-!.travis.yml
-*.yml
 coreos-vcloud-configurator
 tmp/
+bak/
 *.bak
 *.*.minion
 .DS_Store
